@@ -1,5 +1,9 @@
 # pgweb
 
+pgweb中文修改版
+
+[中文说明](README_ZH.md)
+
 Simple web-based and cross platform PostgreSQL database explorer.
 
 [![Release](https://img.shields.io/github/release/sosedoff/pgweb.svg?label=Release)](https://github.com/sosedoff/pgweb/releases)
